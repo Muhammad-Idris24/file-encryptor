@@ -1,0 +1,11 @@
+README.md
+setup.py
+encryptor/__init__.py
+file_encryptor.egg-info/PKG-INFO
+file_encryptor.egg-info/SOURCES.txt
+file_encryptor.egg-info/dependency_links.txt
+file_encryptor.egg-info/entry_points.txt
+file_encryptor.egg-info/requires.txt
+file_encryptor.egg-info/top_level.txt
+tests/test_crypto.py
+tests/test_file_ops.py

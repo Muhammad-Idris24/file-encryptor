@@ -1,0 +1,3 @@
+[console_scripts]
+file-encryptor = encryptor.cli.app:main
+file-encryptor-gui = encryptor.gui.main_window:run_gui [gui]
