@@ -1,0 +1,23 @@
+site_name: File Encryptor
+nav:
+  - Home: index.md
+  - CLI Usage: cli.md
+  - GUI Usage: gui.md
+  - API Reference: api.md
+  - GitHub Repository: https://github.com/Muhammad-Idris24/file-encryptor
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - toc.integrate
+repo_url: https://github.com/Muhammad-Idris24/file-encryptor
+edit_uri: edit/main/docs/
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
